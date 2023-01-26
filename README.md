@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm trikrapka</h1>
+<h1 align="center">Hi 👋, I'm 2point</h1>
 
 - 🔭 I’m currently working on **Leaping Cat 2 game**
 
