@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm trikrapka</h1>
 <h3 align="center">A passionate indie game developer</h3>
-<img align="right" height="150" src="https://i.pinimg.com/564x/63/b7/76/63b7768e3db61738f9ff58211aa9d8b5.jpg"  />
  <p> <img src="https://komarev.com/ghpvc/?username=trikrapka&label=Profile%20views&color=0e75b6&style=flat" alt="trikrapka" /> </p>
 
 - 🔭 I’m currently working on **Leaping Cat 2**
