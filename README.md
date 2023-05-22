@@ -2,7 +2,7 @@
 <h3 align="center">A passionate indie game developer</h3>
  <p> <img src="https://komarev.com/ghpvc/?username=trikrapka&label=Profile%20views&color=0e75b6&style=flat" alt="trikrapka" /> </p>
 
-- 🔭 I’m currently working on **Leaping Cat 2**
+- 🔭 I’m currently working on **Flami** game
 
 - 🌱 I’m currently learning **Unreal Engine**
 <h3 align="left">Connect with me:</h3>
