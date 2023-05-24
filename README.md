@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trikrapka" alt="trikrapka" /></a> </p>
 
-- 🔭 I’m currently working on **Leaping Cat 2**
+- 🔭 I’m currently working on **Flami** game
 
 - 🌱 I’m currently learning **Unreal Engine**
 
