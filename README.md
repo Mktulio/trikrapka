@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flami** game
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **C++/JUCE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
