@@ -18,6 +18,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
+
+  
   <a href="https://gist.github.com/roachhd/dce54bec8ba55fb17d3a" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/brainfuck-icon-512x512-mhpf1b41.png" alt="brainfuck" width="40" height="40"/> </a>
     <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png?20070223155409" alt="android" width="30" height="50"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
