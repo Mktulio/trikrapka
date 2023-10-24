@@ -32,3 +32,4 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=trikrapka&theme=radical)](https://git.io/streak-stats)
+![](https://github-profile-trophy.vercel.app/?username=trikrapka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
